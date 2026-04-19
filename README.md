@@ -4,7 +4,7 @@ An end-to-end automated system that generates, enriches, scores, and engages hig
 
 ---
 
-## 📌 Problem
+## 📌 Problem statement
 
 B2B sales teams often face:
 - ❌ Manual lead discovery  
