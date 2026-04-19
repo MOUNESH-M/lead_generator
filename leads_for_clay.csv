@@ -1,0 +1,55 @@
+name,role,company,email,linkedin,source,company_size,tech_stack,funding,hiring,intent_signal,location,company_size_num
+Kiley Reynolds,CTO,OfficeSpace Software,kreynolds@officespacesoftware.com,http://www.linkedin.com/in/kiley-reynolds-1538324,apollo,50-200 employees,"['GCP', 'AWS']",Seed,True,High,USA,50
+Frans Hamiprodjo,VP Engineering,Quilt Software,fhamiprodjo@quiltsoftware.com,http://www.linkedin.com/in/franshamiprodjo,apollo,50-200 employees,"['Azure', 'Kubernetes']",Series A,True,High,USA,50
+Premi Vinayagam,VP Engineering,Jama Software,pvinayagam@jamasoftware.com,http://www.linkedin.com/in/premi-vinayagam,apollo,50-200 employees,"['Azure', 'Docker']",Seed,True,High,USA,50
+Paul Calhoun,VP Engineering,Integral Development Corp.,paul.calhoun@integral.com,http://www.linkedin.com/in/paul-calhoun-85272a13,apollo,50-200 employees,"['AWS', 'Docker']",Seed,True,High,USA,50
+Andrew Garland,VP Engineering,Sunbird Software,andrew.garland@sunbirddcim.com,http://www.linkedin.com/in/andrewegarland,apollo,50-200 employees,"['AWS', 'Azure']",Series A,False,Medium,USA,50
+Paul Devine,VP Engineering,Updater,paul.devine@updater.com,http://www.linkedin.com/in/pauldevine,apollo,50-200 employees,"['Azure', 'Docker']",Seed,True,High,USA,50
+Roni Putra,CTO,DataCore Software,roni.putra@datacore.com,http://www.linkedin.com/in/roni-putra-68524212,apollo,50-200 employees,"['GCP', 'Docker']",Seed,False,Medium,USA,50
+Tom Mayfield,VP Engineering,Impartner Software,tom.mayfield@impartner.com,http://www.linkedin.com/in/tom-mayfield-innovator,apollo,50-200 employees,"['Kubernetes', 'Azure']",Seed,True,High,USA,50
+Sree Ghantasala,CTO,MedeAnalytics,sree.ghantasala@medeanalytics.com,http://www.linkedin.com/in/sree-ghantasala-521b77,apollo,50-200 employees,"['AWS', 'Azure']",Series B,True,High,USA,50
+Shams Chauthani,CTO,Tempo Software,shams.chauthani@tempo.io,http://www.linkedin.com/in/shamchauthani,apollo,50-200 employees,"['AWS', 'Azure']",Series B,False,Medium,USA,50
+Jeff Macomber,CTO,Sightview Software,jeff.macomber@sightview.com,http://www.linkedin.com/in/jeffreypmacomber,apollo,50-200 employees,"['Docker', 'GCP']",Seed,True,High,USA,50
+Jon Skaggs,CTO,Jama Software,jskaggs@jamasoftware.com,http://www.linkedin.com/in/jon-skaggs-25521027,apollo,50-200 employees,"['Azure', 'Kubernetes']",Series B,True,High,USA,50
+Daniel Natic,VP Engineering,"FinQuery, Formerly LeaseQuery",daniel.natic@finquery.com,http://www.linkedin.com/in/daniel-natic,apollo,50-200 employees,"['Kubernetes', 'AWS']",Seed,False,Medium,USA,50
+Mohit Sharma,CTO,Kanda Software,mohit.sharma@kandasoft.com,http://www.linkedin.com/in/mohit-sharma-063467239,apollo,50-200 employees,"['Docker', 'Azure']",Seed,True,High,USA,50
+Michael Margala,VP Engineering,Employee Navigator,mmargala@employeenavigator.com,http://www.linkedin.com/in/michael-margala-43658b23,apollo,50-200 employees,"['GCP', 'Azure']",Series C,False,Medium,USA,50
+Marc Price,CTO,MATRIXX Software,marc.price@matrixx.com,http://www.linkedin.com/in/marc-price-173643,apollo,50-200 employees,"['GCP', 'AWS']",Series A,True,High,USA,50
+Jerimy Brockway,CTO,MIM Software,jbrockway@mimsoftware.com,http://www.linkedin.com/in/jerimy-brockway-7022a56,apollo,50-200 employees,"['GCP', 'AWS']",Seed,True,High,USA,50
+Zander Rautenbach,CTO,IsoMetrix Software,zander.rautenbach@isometrix.com,http://www.linkedin.com/in/zanderr,apollo,50-200 employees,"['GCP', 'Kubernetes']",Series B,True,High,USA,50
+Josh Beach,VP Engineering,Impartner Software,josh.beach@impartner.com,http://www.linkedin.com/in/joshdbeach,apollo,50-200 employees,"['AWS', 'Azure']",Series C,True,High,USA,50
+Greg Heil,CTO,BS&A Software,gheil@bsasoftware.com,http://www.linkedin.com/in/gheil,apollo,50-200 employees,"['GCP', 'Azure']",Seed,False,Medium,USA,50
+Tom Ottman,CTO,"Dynatron Software, Inc.",tottman@dynatronsoftware.com,http://www.linkedin.com/in/tom-ottman-0034347,apollo,50-200 employees,"['Docker', 'Kubernetes']",Series B,False,Medium,USA,50
+Manoj Chaudhary,CTO,Jitterbit,manoj.chaudhary@jitterbit.com,http://www.linkedin.com/in/mchaudhary,apollo,50-200 employees,"['Azure', 'Kubernetes']",Series A,False,Medium,USA,50
+Ed Wegryn,VP Engineering,Lakeside Software,ed.wegryn@lakesidesoftware.com,http://www.linkedin.com/in/ed-wegryn-6489283a,apollo,50-200 employees,"['Azure', 'Kubernetes']",Series C,True,High,USA,50
+Nova Bing,CTO,Taleo,nbing@taleo.com,http://www.linkedin.com/in/nova-bing-56b188256,apollo,50-200 employees,"['AWS', 'Azure']",Series A,True,High,USA,50
+Paul Armstrong,CTO,Jama Software,parmstrong@jamasoftware.com,http://www.linkedin.com/in/paul-armstrong-07581632,apollo,50-200 employees,"['Azure', 'GCP']",Series A,False,Medium,USA,50
+Mike Florko,CTO,Insoftex,mike@insoftex.com,http://www.linkedin.com/in/mike-florko,apollo,50-200 employees,"['Kubernetes', 'GCP']",Seed,False,Medium,USA,50
+Danish Hameed,CTO,Arhamsoft LLC,danish.hameed@arhamsoft.us,http://www.linkedin.com/in/hameeddanish,apollo,50-200 employees,"['Azure', 'GCP']",Seed,False,Medium,USA,50
+Bohdan Marchuk,CTO,Boring Owl,bohdan.marchuk@boringowl.io,http://www.linkedin.com/in/bohdanmarchuk,apollo,50-200 employees,"['Azure', 'Kubernetes']",Seed,False,Medium,USA,50
+Aaron Toney,CTO,PioneerAI,atoney@pioneerai.ai,http://www.linkedin.com/in/aaron-toney-59693430a,apollo,50-200 employees,"['Azure', 'GCP']",Series C,False,Medium,USA,50
+Larry Lancaster,CTO,ScienceLogic,larry.lancaster@sciencelogic.com,http://www.linkedin.com/in/larry-lancaster-09a3a21,apollo,50-200 employees,"['Kubernetes', 'Azure']",Series B,False,Medium,USA,50
+Manoj Chandra,CTO,LevelShift,mchandra@demandblue.com,http://www.linkedin.com/in/manoj-chandra-b7333313,apollo,50-200 employees,"['Azure', 'AWS']",Seed,True,High,USA,50
+Anthony Zatika,CTO,Disruptive Rain,anthony@disruptiverain.com,http://www.linkedin.com/in/j-anthony-zatika,apollo,50-200 employees,"['AWS', 'Docker']",Seed,False,Medium,USA,50
+Srinivas Yarlanki,CTO,Infogain,srinivas.yarlanki@infogain.com,http://www.linkedin.com/in/syarlanki,apollo,50-200 employees,"['Kubernetes', 'GCP']",Series B,True,High,USA,50
+Harsh Patel,CTO,Coditude,harsh.p@coditude.com,http://www.linkedin.com/in/harsh-patel-a26028195,apollo,50-200 employees,"['GCP', 'Kubernetes']",Series C,True,High,USA,50
+Coby Sternlicht,CTO,iForAI,coby@ifor.ai,http://www.linkedin.com/in/cobysternlicht,apollo,50-200 employees,"['Kubernetes', 'AWS']",Series B,False,Medium,USA,50
+Chuck Hernandez,CTO,IYKYKnow.ai,chuck@iykyknow.ai,http://www.linkedin.com/in/chuck-hernandez,apollo,50-200 employees,"['Azure', 'Kubernetes']",Series A,False,Medium,USA,50
+Johann Beukes,CTO,"Svitla Systems, Inc.",j.beukes@svitla.com,http://www.linkedin.com/in/beukes,apollo,50-200 employees,"['Docker', 'Azure']",Series C,True,High,USA,50
+Jean Valencia,CTO,TangoCode Inc,jvalencia@tangocode.com,http://www.linkedin.com/in/jean-pierre-valencia-12a7b58,apollo,50-200 employees,"['Docker', 'GCP']",Series C,True,High,USA,50
+Tao Tong,CTO,Auditoria.AI,tao.tong@auditoria.ai,http://www.linkedin.com/in/ttong,apollo,50-200 employees,"['Kubernetes', 'GCP']",Series B,True,High,USA,50
+Ryan Kennedy,CTO,Eliza,rkennedy@eliza.com,http://www.linkedin.com/in/ryanpkennedy,apollo,50-200 employees,"['GCP', 'Docker']",Series A,False,Medium,USA,50
+Irene Z,CTO,AI Solutions,irene.z@aisolutions.tec.br,http://www.linkedin.com/in/irene-z-4600715b,apollo,50-200 employees,"['Azure', 'GCP']",Seed,True,High,USA,50
+Ken Wiltshire,CTO,"MVP2o, LLC",ken@mvp2o.com,http://www.linkedin.com/in/ken-wiltshire-40ab8264,apollo,50-200 employees,"['GCP', 'Kubernetes']",Series B,False,Medium,USA,50
+Rex Hale,CTO,Medpaid HSA | FSA SaaS,rhale@medpaid.com,http://www.linkedin.com/in/rexhale,apollo,50-200 employees,"['Kubernetes', 'Azure']",Series C,False,Medium,USA,50
+Trevor Solis,CTO,StudioX,trevor@secomind.ai,http://www.linkedin.com/in/trevor-solis-190222227,apollo,50-200 employees,"['GCP', 'Kubernetes']",Seed,True,High,USA,50
+Charles Buck,CTO,SaaS Alerts,chip@saasalerts.com,http://www.linkedin.com/in/chipbuck,apollo,50-200 employees,"['Kubernetes', 'Docker']",Series C,False,Medium,USA,50
+Christopher Peters,CTO,RIZZARR,cpeters@rizzarr.com,http://www.linkedin.com/in/statwonk,apollo,50-200 employees,"['AWS', 'GCP']",Series C,False,Medium,USA,50
+Sanjay Kottaram,CTO,ArcOne AI,sanjay.kottaram@arcone.com,http://www.linkedin.com/in/sanjay-kottaram-b428986,apollo,50-200 employees,"['Azure', 'AWS']",Series C,False,Medium,USA,50
+Sheila Nasehi,CTO,WebcentriQ,sheila@webcentriq.com,http://www.linkedin.com/in/sheila-nasehi-6635303b,apollo,50-200 employees,"['GCP', 'Azure']",Seed,False,Medium,USA,50
+Freedom Dumlao,CTO,Vestmark,fdumlao@vestmark.com,http://www.linkedin.com/in/freedomdumlao,apollo,50-200 employees,"['GCP', 'Azure']",Series C,True,High,USA,50
+Yuriy Yuzifovich,CTO,GlobalLogic,yuriy.yuzifovich@globallogic.com,http://www.linkedin.com/in/yuriyyuzifovich,apollo,50-200 employees,"['Docker', 'GCP']",Series A,True,High,USA,50
+Devin Walkup,CTO,SaaS e Solutions,devin@saas-e-solutions.com,http://www.linkedin.com/in/devin-walkup-453823124,apollo,50-200 employees,"['Azure', 'Docker']",Series A,True,High,USA,50
+Babak Hodjat,CTO,Cognizant,babak.hodjat@cognizant.com,http://www.linkedin.com/in/babakhodjat,apollo,50-200 employees,"['Azure', 'GCP']",Series A,False,Medium,USA,50
+Kumar Srivastava,CTO,Turing Labs,kumar@turingsaas.com,http://www.linkedin.com/in/kumarsrivastava,apollo,50-200 employees,"['Kubernetes', 'Azure']",Series A,True,High,USA,50
+David Pittinger,CTO,Pro Cloud SaaS,david.pittinger@procloudsaas.com,http://www.linkedin.com/in/davidpittinger,apollo,50-200 employees,"['GCP', 'Azure']",Series B,False,Medium,USA,50

@@ -1,0 +1,852 @@
+[
+    {
+        "company": "OfficeSpace Software",
+        "name": "Kiley Reynolds",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "kreynolds@officespacesoftware.com",
+        "linkedin": "http://www.linkedin.com/in/kiley-reynolds-1538324",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Kubernetes",
+            "Google Cloud Platform"
+        ],
+        "funding": "Seed",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Quilt Software",
+        "name": "Frans Hamiprodjo",
+        "role": "VP Engineering",
+        "title": "VP Engineering",
+        "email": "fhamiprodjo@quiltsoftware.com",
+        "linkedin": "http://www.linkedin.com/in/franshamiprodjo",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Kubernetes",
+            "Azure"
+        ],
+        "funding": "Seed",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Jama Software",
+        "name": "Premi Vinayagam",
+        "role": "VP Engineering",
+        "title": "VP Engineering",
+        "email": "pvinayagam@jamasoftware.com",
+        "linkedin": "http://www.linkedin.com/in/premi-vinayagam",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Google Cloud Platform",
+            "Azure"
+        ],
+        "funding": "Series C",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Integral Development Corp.",
+        "name": "Paul Calhoun",
+        "role": "VP Engineering",
+        "title": "VP Engineering",
+        "email": "paul.calhoun@integral.com",
+        "linkedin": "http://www.linkedin.com/in/paul-calhoun-85272a13",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "AWS"
+        ],
+        "funding": "Series A",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Sunbird Software",
+        "name": "Andrew Garland",
+        "role": "VP Engineering",
+        "title": "VP Engineering",
+        "email": "andrew.garland@sunbirddcim.com",
+        "linkedin": "http://www.linkedin.com/in/andrewegarland",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Kubernetes",
+            "AWS"
+        ],
+        "funding": "Seed",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Updater",
+        "name": "Paul Devine",
+        "role": "VP Engineering",
+        "title": "VP Engineering",
+        "email": "paul.devine@updater.com",
+        "linkedin": "http://www.linkedin.com/in/pauldevine",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "AWS"
+        ],
+        "funding": "Series C",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "DataCore Software",
+        "name": "Roni Putra",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "roni.putra@datacore.com",
+        "linkedin": "http://www.linkedin.com/in/roni-putra-68524212",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "AWS"
+        ],
+        "funding": "Series C",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Impartner Software",
+        "name": "Tom Mayfield",
+        "role": "VP Engineering",
+        "title": "VP Engineering",
+        "email": "tom.mayfield@impartner.com",
+        "linkedin": "http://www.linkedin.com/in/tom-mayfield-innovator",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "AWS",
+            "Kubernetes"
+        ],
+        "funding": "Seed",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "MedeAnalytics",
+        "name": "Sree Ghantasala",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "sree.ghantasala@medeanalytics.com",
+        "linkedin": "http://www.linkedin.com/in/sree-ghantasala-521b77",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Kubernetes",
+            "AWS"
+        ],
+        "funding": "Series A",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Tempo Software",
+        "name": "Shams Chauthani",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "shams.chauthani@tempo.io",
+        "linkedin": "http://www.linkedin.com/in/shamchauthani",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "AWS",
+            "Azure"
+        ],
+        "funding": "Seed",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Sightview Software",
+        "name": "Jeff Macomber",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "jeff.macomber@sightview.com",
+        "linkedin": "http://www.linkedin.com/in/jeffreypmacomber",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Kubernetes",
+            "Azure"
+        ],
+        "funding": "Series B",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Jama Software",
+        "name": "Jon Skaggs",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "jskaggs@jamasoftware.com",
+        "linkedin": "http://www.linkedin.com/in/jon-skaggs-25521027",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Google Cloud Platform",
+            "Kubernetes"
+        ],
+        "funding": "Series A",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "FinQuery, Formerly LeaseQuery",
+        "name": "Daniel Natic",
+        "role": "VP Engineering",
+        "title": "VP Engineering",
+        "email": "daniel.natic@finquery.com",
+        "linkedin": "http://www.linkedin.com/in/daniel-natic",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "AWS",
+            "Kubernetes"
+        ],
+        "funding": "Series A",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Kanda Software",
+        "name": "Mohit Sharma",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "mohit.sharma@kandasoft.com",
+        "linkedin": "http://www.linkedin.com/in/mohit-sharma-063467239",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "AWS",
+            "Azure"
+        ],
+        "funding": "Series A",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Employee Navigator",
+        "name": "Michael Margala",
+        "role": "VP Engineering",
+        "title": "VP Engineering",
+        "email": "mmargala@employeenavigator.com",
+        "linkedin": "http://www.linkedin.com/in/michael-margala-43658b23",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "AWS"
+        ],
+        "funding": "Series A",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "MATRIXX Software",
+        "name": "Marc Price",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "marc.price@matrixx.com",
+        "linkedin": "http://www.linkedin.com/in/marc-price-173643",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "AWS",
+            "Google Cloud Platform"
+        ],
+        "funding": "Series A",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "MIM Software",
+        "name": "Jerimy Brockway",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "jbrockway@mimsoftware.com",
+        "linkedin": "http://www.linkedin.com/in/jerimy-brockway-7022a56",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "AWS"
+        ],
+        "funding": "Series C",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "IsoMetrix Software",
+        "name": "Zander Rautenbach",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "zander.rautenbach@isometrix.com",
+        "linkedin": "http://www.linkedin.com/in/zanderr",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Kubernetes",
+            "Azure"
+        ],
+        "funding": "Seed",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Impartner Software",
+        "name": "Josh Beach",
+        "role": "VP Engineering",
+        "title": "VP Engineering",
+        "email": "josh.beach@impartner.com",
+        "linkedin": "http://www.linkedin.com/in/joshdbeach",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "Google Cloud Platform"
+        ],
+        "funding": "Seed",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "BS&A Software",
+        "name": "Greg Heil",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "gheil@bsasoftware.com",
+        "linkedin": "http://www.linkedin.com/in/gheil",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Kubernetes",
+            "AWS"
+        ],
+        "funding": "Seed",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Dynatron Software, Inc.",
+        "name": "Tom Ottman",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "tottman@dynatronsoftware.com",
+        "linkedin": "http://www.linkedin.com/in/tom-ottman-0034347",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Google Cloud Platform",
+            "Kubernetes"
+        ],
+        "funding": "Seed",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Jitterbit",
+        "name": "Manoj Chaudhary",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "manoj.chaudhary@jitterbit.com",
+        "linkedin": "http://www.linkedin.com/in/mchaudhary",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Kubernetes",
+            "Azure"
+        ],
+        "funding": "Series B",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Lakeside Software",
+        "name": "Ed Wegryn",
+        "role": "VP Engineering",
+        "title": "VP Engineering",
+        "email": "ed.wegryn@lakesidesoftware.com",
+        "linkedin": "http://www.linkedin.com/in/ed-wegryn-6489283a",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "AWS",
+            "Google Cloud Platform"
+        ],
+        "funding": "Series A",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Taleo",
+        "name": "Nova Bing",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "nbing@taleo.com",
+        "linkedin": "http://www.linkedin.com/in/nova-bing-56b188256",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "Kubernetes"
+        ],
+        "funding": "Series C",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Jama Software",
+        "name": "Paul Armstrong",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "parmstrong@jamasoftware.com",
+        "linkedin": "http://www.linkedin.com/in/paul-armstrong-07581632",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Google Cloud Platform",
+            "Kubernetes"
+        ],
+        "funding": "Series A",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Insoftex",
+        "name": "Mike Florko",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "mike@insoftex.com",
+        "linkedin": "http://www.linkedin.com/in/mike-florko",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Kubernetes",
+            "Google Cloud Platform"
+        ],
+        "funding": "Series B",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Arhamsoft LLC",
+        "name": "Danish Hameed",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "danish.hameed@arhamsoft.us",
+        "linkedin": "http://www.linkedin.com/in/hameeddanish",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "Google Cloud Platform"
+        ],
+        "funding": "Series A",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Boring Owl",
+        "name": "Bohdan Marchuk",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "bohdan.marchuk@boringowl.io",
+        "linkedin": "http://www.linkedin.com/in/bohdanmarchuk",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "Kubernetes"
+        ],
+        "funding": "Series A",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "PioneerAI",
+        "name": "Aaron Toney",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "atoney@pioneerai.ai",
+        "linkedin": "http://www.linkedin.com/in/aaron-toney-59693430a",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "AWS",
+            "Google Cloud Platform"
+        ],
+        "funding": "Series B",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "ScienceLogic",
+        "name": "Larry Lancaster",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "larry.lancaster@sciencelogic.com",
+        "linkedin": "http://www.linkedin.com/in/larry-lancaster-09a3a21",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "AWS"
+        ],
+        "funding": "Series A",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "LevelShift",
+        "name": "Manoj Chandra",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "mchandra@demandblue.com",
+        "linkedin": "http://www.linkedin.com/in/manoj-chandra-b7333313",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "AWS",
+            "Google Cloud Platform"
+        ],
+        "funding": "Series A",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Disruptive Rain",
+        "name": "Anthony Zatika",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "anthony@disruptiverain.com",
+        "linkedin": "http://www.linkedin.com/in/j-anthony-zatika",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Kubernetes",
+            "Google Cloud Platform"
+        ],
+        "funding": "Seed",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Infogain",
+        "name": "Srinivas Yarlanki",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "srinivas.yarlanki@infogain.com",
+        "linkedin": "http://www.linkedin.com/in/syarlanki",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Google Cloud Platform",
+            "AWS"
+        ],
+        "funding": "Series B",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Coditude",
+        "name": "Harsh Patel",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "harsh.p@coditude.com",
+        "linkedin": "http://www.linkedin.com/in/harsh-patel-a26028195",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "Kubernetes"
+        ],
+        "funding": "Seed",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "iForAI",
+        "name": "Coby Sternlicht",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "coby@ifor.ai",
+        "linkedin": "http://www.linkedin.com/in/cobysternlicht",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "AWS",
+            "Azure"
+        ],
+        "funding": "Series A",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "IYKYKnow.ai",
+        "name": "Chuck Hernandez",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "chuck@iykyknow.ai",
+        "linkedin": "http://www.linkedin.com/in/chuck-hernandez",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "AWS"
+        ],
+        "funding": "Series C",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Svitla Systems, Inc.",
+        "name": "Johann Beukes",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "j.beukes@svitla.com",
+        "linkedin": "http://www.linkedin.com/in/beukes",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "Kubernetes"
+        ],
+        "funding": "Series A",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "TangoCode Inc",
+        "name": "Jean Valencia",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "jvalencia@tangocode.com",
+        "linkedin": "http://www.linkedin.com/in/jean-pierre-valencia-12a7b58",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Google Cloud Platform",
+            "AWS"
+        ],
+        "funding": "Seed",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Auditoria.AI",
+        "name": "Tao Tong",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "tao.tong@auditoria.ai",
+        "linkedin": "http://www.linkedin.com/in/ttong",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Google Cloud Platform",
+            "AWS"
+        ],
+        "funding": "Seed",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Eliza",
+        "name": "Ryan Kennedy",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "rkennedy@eliza.com",
+        "linkedin": "http://www.linkedin.com/in/ryanpkennedy",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Kubernetes",
+            "AWS"
+        ],
+        "funding": "Series A",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "AI Solutions",
+        "name": "Irene Z",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "irene.z@aisolutions.tec.br",
+        "linkedin": "http://www.linkedin.com/in/irene-z-4600715b",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Google Cloud Platform",
+            "Kubernetes"
+        ],
+        "funding": "Series A",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "MVP2o, LLC",
+        "name": "Ken Wiltshire",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "ken@mvp2o.com",
+        "linkedin": "http://www.linkedin.com/in/ken-wiltshire-40ab8264",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "Google Cloud Platform"
+        ],
+        "funding": "Series A",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Medpaid HSA | FSA SaaS",
+        "name": "Rex Hale",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "rhale@medpaid.com",
+        "linkedin": "http://www.linkedin.com/in/rexhale",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "Google Cloud Platform"
+        ],
+        "funding": "Seed",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "StudioX",
+        "name": "Trevor Solis",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "trevor@secomind.ai",
+        "linkedin": "http://www.linkedin.com/in/trevor-solis-190222227",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Google Cloud Platform",
+            "Kubernetes"
+        ],
+        "funding": "Seed",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "SaaS Alerts",
+        "name": "Charles Buck",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "chip@saasalerts.com",
+        "linkedin": "http://www.linkedin.com/in/chipbuck",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Azure",
+            "Google Cloud Platform"
+        ],
+        "funding": "Series C",
+        "hiring": "High",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "RIZZARR",
+        "name": "Christopher Peters",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "cpeters@rizzarr.com",
+        "linkedin": "http://www.linkedin.com/in/statwonk",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "AWS",
+            "Kubernetes"
+        ],
+        "funding": "Seed",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "ArcOne AI",
+        "name": "Sanjay Kottaram",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "sanjay.kottaram@arcone.com",
+        "linkedin": "http://www.linkedin.com/in/sanjay-kottaram-b428986",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "AWS",
+            "Kubernetes"
+        ],
+        "funding": "Seed",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "WebcentriQ",
+        "name": "Sheila Nasehi",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "sheila@webcentriq.com",
+        "linkedin": "http://www.linkedin.com/in/sheila-nasehi-6635303b",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "AWS",
+            "Kubernetes"
+        ],
+        "funding": "Series C",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "Vestmark",
+        "name": "Freedom Dumlao",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "fdumlao@vestmark.com",
+        "linkedin": "http://www.linkedin.com/in/freedomdumlao",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Google Cloud Platform",
+            "Azure"
+        ],
+        "funding": "Series A",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    },
+    {
+        "company": "GlobalLogic",
+        "name": "Yuriy Yuzifovich",
+        "role": "CTO",
+        "title": "CTO",
+        "email": "yuriy.yuzifovich@globallogic.com",
+        "linkedin": "http://www.linkedin.com/in/yuriyyuzifovich",
+        "source": "apollo",
+        "size": 100,
+        "tech": [
+            "Google Cloud Platform",
+            "Kubernetes"
+        ],
+        "funding": "Series C",
+        "hiring": "Low",
+        "github_activity": "Unknown"
+    }
+]
